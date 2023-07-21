@@ -1,0 +1,1 @@
+# salteamos paso de archivos ignorados.
